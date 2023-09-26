@@ -1,0 +1,708 @@
+/* FLEXBOX */
+.flex {
+  display: flex !important;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-row {
+  flex-direction: row !important;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-items: center;
+}
+
+
+
+/* WIDTH VW */
+.width-95vw {
+  width: 95vw;
+}
+
+.width-90vw {
+  width: 90vw;
+}
+
+.width-85vw {
+  width: 85vw;
+}
+
+.width-80vw {
+  width: 80vw;
+}
+
+.width-70vw {
+  width: 70vw;
+}
+
+.width-60vw {
+  width: 60vw;
+}
+
+
+
+
+/* MAX WIDTH VW  */
+.max-width-95vw {
+  max-width: 95vw;
+}
+
+.max-width-90vw {
+  max-width: 90vw;
+}
+
+.max-width-80vw {
+  max-width: 80vw;
+}
+
+.max-width-70vw {
+  max-width: 70vw;
+}
+
+.max-width-60vw {
+  max-width: 60vw;
+}
+
+.max-width-50vw {
+  max-width: 50vw;
+}
+
+
+
+/* WIDTH REM */
+.width-2rem {
+  width: 2rem;
+}
+
+.width-5rem {
+  width: 5rem;
+}
+
+.width-10rem {
+  width: 10rem;
+}
+
+
+
+
+/* MAX WIDTH  */
+.max-width-40rem {
+  max-width: 40rem;
+}
+
+.max-width-50rem {
+  max-width: 50rem;
+}
+
+
+
+/* HEIGHT VH  */
+.height-100vh {
+  height: 100vh;
+}
+
+
+/* HEIGHT REM  */
+.height-2rem {
+  height: 2rem !important;
+}
+
+
+
+/* TEXT ALIGN  */
+.text-align-center {
+  text-align: center !important;
+}
+
+.text-align-left {
+  text-align: left !important;
+}
+
+.text-align-right {
+  text-align: right !important;
+}
+
+
+/* MARGIN BOTTOM  */
+.margin-bottom0-3 {
+  margin-bottom: 0.3rem !important;
+}
+
+.margin-bottom0-5 {
+  margin-bottom: 0.5rem !important;
+}
+
+.margin-bottom0-7 {
+  margin-bottom: 0.7rem !important;
+}
+
+.margin-bottom1 {
+  margin-bottom: 1rem !important;
+}
+
+.margin-bottom2 {
+  margin-bottom: 2rem !important;
+}
+
+.margin-bottom3 {
+  margin-bottom: 3rem !important;
+}
+
+.margin-bottom4 {
+  margin-bottom: 4rem !important;
+}
+
+.margin-bottom5 {
+  margin-bottom: 5rem !important;
+}
+
+
+
+
+/* MARGIN TOP  */
+.margin-top0-3 {
+  margin-top: 0.3rem;
+}
+
+.margin-top0-5 {
+  margin-top: 0.5rem;
+}
+
+.margin-top0-7 {
+  margin-top: 0.7rem;
+}
+
+.margin-top1 {
+  margin-top: 1rem;
+}
+
+.margin-top1-5 {
+  margin-top: 1.5rem;
+}
+
+.margin-top2 {
+  margin-top: 2rem;
+}
+
+.margin-top3 {
+  margin-top: 3rem;
+}
+
+.margin-top4 {
+  margin-top: 4rem;
+}
+
+.margin-top5 {
+  margin-top: 5rem;
+}
+
+.margin-top7 {
+  margin-top: 7rem;
+}
+
+.margin-top10 {
+  margin-top: 10rem;
+}
+
+
+/* MARGIN TOP NEGATIVE  */
+.margin-top-0-6{
+  margin-top: -0.6rem !important;
+}
+
+.margin-top-1{
+  margin-top: -1rem !important;
+}
+
+.margin-top-1-5{
+  margin-top: -1.5rem !important;
+}
+
+.margin-top-2{
+  margin-top: -2rem !important;
+}
+
+.margin-top-20px{
+  margin-top: -20px !important;
+}
+
+
+
+/* TOP  */
+.top-0 {
+  top: 0;
+}
+
+
+
+
+/* MARGIN LEFT  */
+.margin-left0-3 {
+  margin-left: 0.3rem;
+}
+
+.margin-left0-5 {
+  margin-left: 0.5rem;
+}
+
+.margin-left1 {
+  margin-left: 1rem;
+}
+
+.margin-left1-1 {
+  margin-left: 1.1rem;
+}
+
+.margin-left1-2 {
+  margin-left: 1.2rem;
+}
+
+.margin-left2 {
+  margin-left: 2rem;
+}
+
+.margin-left3 {
+  margin-left: 3rem;
+}
+
+.margin-left4 {
+  margin-left: 4rem;
+}
+
+.margin-left5 {
+  margin-left: 5rem;
+}
+
+
+/* LEFT  */
+.left-0 {
+  left: 0;
+}
+
+
+
+/* MARGIN RIGHT  */
+.margin-right0-3 {
+  margin-right: 0.3rem;
+}
+
+.margin-right0-5 {
+  margin-right: 0.5rem;
+}
+
+.margin-right1 {
+  margin-right: 1rem;
+}
+
+.margin-right2 {
+  margin-right: 2rem;
+}
+
+.margin-right3 {
+  margin-right: 3rem;
+}
+
+.margin-right4 {
+  margin-right: 4rem;
+}
+
+.margin-right5 {
+  margin-right: 5rem;
+}
+
+
+/* RIGHT  */
+.right-0 {
+  right: 0;
+}
+
+
+
+/* PADDING BOTTOM */
+.padding-bottom0-2 {
+  padding-bottom: 0.2rem;
+}
+
+.padding-bottom0-5 {
+  padding-bottom: 0.5rem !important;
+}
+
+.padding-bottom0-7 {
+  padding-bottom: 0.7rem !important;
+}
+
+.padding-bottom1 {
+  padding-bottom: 1rem !important;
+}
+
+.padding-bottom3 {
+  padding-bottom: 3rem !important;
+}
+
+.padding-bottom5 {
+  padding-bottom: 5rem !important;
+}
+
+
+
+
+/* PADDING TOP */
+.padding-top0-2 {
+  padding-top: 0.2rem;
+}
+
+.padding-top0-5 {
+  padding-top: 0.5rem !important;
+}
+
+.padding-top0-7 {
+  padding-top: 0.7rem !important;
+}
+
+.padding-top1 {
+  padding-top: 1rem !important;
+}
+
+
+
+
+/* GAP  */
+.gap1 {
+  gap: 1rem;
+}
+
+
+
+/* LINE HEIGHT  */
+.line-height0-5 {
+  line-height: 0.5rem !important;
+}
+
+.line-height0-7 {
+  line-height: 0.7rem !important;
+}
+
+.line-height0-8 {
+  line-height: 0.8rem !important;
+}
+
+.line-height0-9 {
+  line-height: 0.9rem !important;
+}
+
+.line-height1 {
+  line-height: 1rem !important;
+}
+
+.line-height1-2 {
+  line-height: 1.2rem !important;
+}
+
+.line-height1-4 {
+  line-height: 1.4rem !important;
+}
+
+.line-height1-6 {
+  line-height: 1.6rem !important;
+}
+
+.line-height1-8 {
+  line-height: 1.8rem !important;
+}
+
+
+
+
+/* POSITION  */
+.position-fixed {
+  position: fixed;
+}
+
+
+
+
+
+
+
+/* FONT SIZE  */
+.size0-5 {
+  font-size: 0.5rem;
+}
+
+.size0-6 {
+  font-size: 0.6rem;
+}
+
+.size0-7 {
+  font-size: 0.7rem;
+}
+
+.size0-8 {
+  font-size: 0.8rem;
+}
+
+.size0-9 {
+  font-size: 0.9rem;
+}
+
+.size1 {
+  font-size: 1rem;
+}
+
+.size1-2 {
+  font-size: 1.2rem !important;
+}
+
+.size1-3 {
+  font-size: 1.3rem !important;
+}
+
+.size1-4 {
+  font-size: 1.4rem !important;
+}
+
+.size1-5 {
+  font-size: 1.5rem !important;
+}
+
+.size1-7 {
+  font-size: 1.7rem;
+}
+
+.size2 {
+  font-size: 2rem !important;
+}
+
+.size5 {
+  font-size: 5rem !important;
+}
+
+
+
+
+/* FONTS-FAMILY */
+.raleway {
+  font-family: "Raleway", sans-serif !important;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif !important;
+}
+
+
+
+
+
+/* FONT WEIGHT  */
+.bold {
+  font-weight: bold !important;
+}
+
+.italic{
+  font-style: italic !important ;
+}
+
+
+
+/* TEXT DECORATION  */
+.underline {
+  text-decoration: underline;
+}
+
+
+
+/* BORDER  */
+.border-bottom1 {
+  border-bottom: 1px solid rgb(194, 190, 190);
+}
+
+.border-right1 {
+  border-right: 1px solid rgb(194, 190, 190);
+}
+
+.border-radius {
+  border-radius: 8px !important;
+}
+
+.border1{
+  border:1px solid black !important;
+}
+
+
+
+/* Z-INDEX  */
+.z-index1 {
+  z-index: 1 !important;
+}
+
+.z-index2 {
+  z-index: 2 !important;
+}
+
+
+/* CURSOR  */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+
+
+/* COLOR  */
+.colorSuccess {
+  color: #18be6b;
+}
+
+
+
+.black {
+  color: black !important;
+}
+
+.white {
+  color: rgb(255, 255, 255) !important;
+}
+
+.purple{
+  color: #705AC6 !important;
+}
+
+
+/* BOX SIZING  */
+.box-sizing-revert{
+  box-sizing: revert !important;
+}
+
+
+/* BACKGROUND-COLOR  */
+.background-black {
+  background-color: black !important;
+}
+
+.background-white {
+  background-color: rgb(255, 255, 255) !important;
+}
+
+.background-alice-blue {
+  background-color: aliceblue !important;
+}
+
+/* ERROR - Utiliser pour tous les messages d'erreur s'affichant pour l'utilisateur  */
+.info-error {
+  font-size: 0.8rem !important;
+  color: rgb(218, 55, 55);
+  margin-top: -20px !important;
+}
+
+/* USER SELECT  */
+.user-select-none{
+  user-select: none !important;
+}
+
+______________________________________
+/* ELEMENTS SPECIFIQUES  */
+
+/* Tous les boutons en haut à gauche de l'écran  */
+.z-index-element {
+  z-index: 1;
+  background-color: rgb(240, 233, 233) !important;
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 9px !important;
+}
+
+
+.timer20Sec {
+  font-size: 2.5rem;
+  z-index: 1;
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  border-bottom-right-radius: 9px !important;
+  border-bottom: 1px solid rgb(194, 190, 190);
+  border-right: 1px solid rgb(194, 190, 190);
+  box-shadow: #c0b8b8 5px 5px 8px;
+  padding: 0.3rem 1rem 0.5rem 1rem
+}
+
+
+/* ANIMATION  */
+.rotate-anim-hourglass {
+  animation: rotate 4s ease-in-out infinite;
+}
+
+/* Bouton en haut à gauche des pages */
+.button-top-left-page {
+  height: 2rem;
+  width: 8.6rem;
+  padding-left: 0.5rem;
+  padding-top: 0.2rem;
+  cursor: pointer;
+}
+
+/* Boutton pour donner un point à un joueur  */
+.style-button-point {
+  background-color: #fffcff !important;
+  box-shadow: #c0b8b8 5px 5px 8px;
+  border-radius: 8px;
+  padding: 15px 10px;
+  color: black;
+  border: 1px solid grey;
+  font-size: 15px;
+  max-width: 90vw !important;
+  transition: transform 200ms, box-shadow 200ms;
+
+}
+
+
+.style-button-point2 {
+  background-color: #c3e3f1 !important;
+  border-radius: 8px;
+  padding: 15px 10px;
+  color: black;
+  border: 1px solid grey;
+  font-size: 15px;
+  max-width: 90vw !important;
+  transition: transform 200ms, box-shadow 200ms;
+}
+
+
+
+/* POINTER EVENTS  */
+.pointer-events-none{
+  pointer-events: none !important;
+}
+
+
+@keyframes rotate {
+
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+
+  50% {
+    transform: rotate(360deg);
+  }
+}
+
+.rotate-anim-circle {
+  animation: rotateCircle 2s linear infinite;
+}
+
+@keyframes rotateCircle {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
